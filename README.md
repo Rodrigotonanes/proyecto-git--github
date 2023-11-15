@@ -1,4 +1,4 @@
 # nombre de del tp:manejo de git y gitgub
 
 
-### integrantes :
+### integrantes : paola vera ,rodrigo toñanes  
